@@ -292,4 +292,16 @@ td.info.office p{
     align-items: center;
     background-color: var(--second-color);
   }
+  
+  .nav-bar h3 {
+    font-size: 1.25em;
+  }
 
+  #button {
+    /* border: var(--third-color) 1px solid; */
+    min-width: 60px;
+    text-align: center;
+  }
+  .button-project {
+    flex-grow: 2;
+  }
