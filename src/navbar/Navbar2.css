@@ -1,5 +1,6 @@
 
 nav {
+    font-family: 'Montserrat', sans-serif;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -14,7 +15,6 @@ nav {
 nav img {
     -webkit-filter: invert(.9);
     filter: invert(.9);
-    margin-top: 15px;
 }
 
 nav ul {
