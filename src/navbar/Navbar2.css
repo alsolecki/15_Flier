@@ -24,6 +24,7 @@ nav ul {
 nav ul.open {
     display: flex;
     background-color:rgba(30, 30, 30, 1);
+    padding-left: 0;
 }
 
 nav ul li {
@@ -67,6 +68,7 @@ nav .menu span {
     nav .menu {
         display: flex;
         margin-top: 15px;
+        margin-right: 10px;
     }
 
     nav {
