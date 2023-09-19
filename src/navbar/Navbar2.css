@@ -42,9 +42,9 @@ nav ul li a {
 
 nav .menu {
     display: none;
-    position: absolute;
-    top: 0.75rem;
-    right: 0.5rem;
+    position: relative;
+    bottom: 2rem;
+    right: -60%;
     flex-direction: column;
     justify-content: space-between;
     width: 2rem;
